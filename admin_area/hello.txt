@@ -1,2 +1,2 @@
 hi this is git buddy.
-hi
+hi hey buddy
